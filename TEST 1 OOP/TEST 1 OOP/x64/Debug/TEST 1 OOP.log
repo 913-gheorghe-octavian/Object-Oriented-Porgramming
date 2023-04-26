@@ -1,0 +1,7 @@
+﻿  Controller.cpp
+  Repository.cpp
+C:\Users\Octavian\Desktop\TEST 1 OOP\TEST 1 OOP\Repository.cpp(46,32): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+  UI.cpp
+  main.cpp
+  Generating Code...
+  TEST 1 OOP.vcxproj -> C:\Users\Octavian\Desktop\TEST 1 OOP\x64\Debug\TEST 1 OOP.exe
